@@ -8,7 +8,7 @@
 
 [Circular](https://github.com/deepdk/30Day-Chart-Challenge-2025/tree/main/circular)
 
-![cirf2](https://github.com/user-attachments/assets/9653869c-700f-4829-9b29-e69e0b9dae3b)
+<img src="https://github.com/user-attachments/assets/9653869c-700f-4829-9b29-e69e0b9dae3b",alt="f2" width="500" height="400">
 
 ---
 
