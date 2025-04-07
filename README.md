@@ -23,3 +23,9 @@
 <img src="https://github.com/user-attachments/assets/439807c7-6095-466d-bc28-9c2de9be9f20" alt="f2" width="500" height="500">
 
 ---
+
+[Outlier](https://github.com/deepdk/30Day-Chart-Challenge-2025/tree/main/Outliers)
+
+<img src="https://github.com/user-attachments/assets/e717974b-6fb6-4c13-aaff-39a064324911" width="500" height="500"> 
+
+---
