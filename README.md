@@ -36,3 +36,14 @@
 
 ---
 
+[Strips](https://github.com/deepdk/30Day-Chart-Challenge-2025/tree/main/strips)
+
+![car](https://github.com/user-attachments/assets/073ccbf5-d60f-40a5-93ab-4c795b55d479)
+
+---
+
+[Clusters](https://github.com/deepdk/30Day-Chart-Challenge-2025/tree/main/clusters)
+
+![penguins](https://github.com/user-attachments/assets/93acbeac-4d9c-4f39-b722-90c53ffc7a66)
+
+---
